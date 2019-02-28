@@ -2,4 +2,4 @@
 # rsschool-2019Q1-html-css
 
 Artsiom Fiadotau
-https://www.codecademy.com/users/Artsiom.Fiadotau/achievements
+HTML CSS Basics: https://www.codecademy.com/users/Artsiom.Fiadotau/achievements
